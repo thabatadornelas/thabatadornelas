@@ -5,7 +5,7 @@
 I'm a Software Developer from Brazil. I'm currently working at [Qesh Payments](https://app.qesh.ai/)! 💻
 - Learning about technology is one of my true passions (my Youtube History is a big proof of that); 🤷🏽 
 - Love (love, love, <strong>love</strong>!) communicating in English; 💬
-- I'm also very fond of personal and professional developmental books; 🧘🏽
+- I'm also very fond of personal & professional self improvement books; 🧘🏽
 - You'll probably find me coding somewhere while taking a big sip of coffee! ☕️
 <br></br>
 <p align="left">
