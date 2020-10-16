@@ -1,9 +1,6 @@
 ### Hi there! 👋
 
-<!--
-**thabatadornelas/thabatadornelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Thabata Dornelas [![Linkedin Badge](https://img.shields.io/badge/-thabatadornelas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thabatadornelas/)](https://www.linkedin.com/in/thabatadornelas/) [![Gmail Badge](https://img.shields.io/badge/-dornelasthabata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dornelasthabata@gmail.com)](mailto:dornelasthabata@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-thabatadornelas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thabatadornelas/)](https://www.linkedin.com/in/thabatadornelas/) [![Gmail Badge](https://img.shields.io/badge/-dornelasthabata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dornelasthabata@gmail.com)](mailto:dornelasthabata@gmail.com)
 
 I'm a Software Developer from Brazil. Currently I'm working at [Qesh Payments](https://app.qesh.ai/)! :computer:
 
