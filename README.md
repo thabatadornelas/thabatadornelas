@@ -6,8 +6,8 @@ I'm a Software Developer from Brazil. Currently I'm working at [Qesh Payments](h
 - Learning about technology is one of my true passions (my Youtube History is a big proof of that);
 - Love (love, love, love!) communicating in English;
 - You will probably find me coding somewhere while taking a big sip of coffee! :coffee:
-<p></p>
-<p></p>
+
+<p>&nbsp;</p>
 <p align="left">
   <code>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" height="40"/> 
