@@ -7,7 +7,7 @@ I'm a Software Developer from Brazil. I'm currently working at [Qesh Payments](h
 - Love (love, love, love!) communicating in English; :rocket:
 - I'm also very fond of personal and professional developmental books; 🧘🏽
 - You'll probably find me coding somewhere while taking a big sip of coffee! :coffee:
-<p><br></br></p>
+<br></br>
 <p align="left">
   <code>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
