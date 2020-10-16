@@ -9,6 +9,7 @@ I'm a Software Developer from Brazil. Currently I'm working at [Qesh Payments](h
 - You will probably find me coding somewhere while taking a big sip of coffee! :coffee:
 
 Languages, tools and frameworks:
+<br>
 <p align="left">
   <code>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" height="40"/> 
