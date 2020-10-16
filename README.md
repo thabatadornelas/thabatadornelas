@@ -23,9 +23,6 @@ I'm a Software Developer from Brazil. Currently I'm working at [Qesh Payments](h
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabatadornelas&layout=compact&theme=light&title_color=268bd2" alt="thabatadornelas" width="350" />
-</p>
-<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=thabatadornelas&count_private=true&show_icons=true&theme=light&icon_color=268bd2&title_color=268bd2" alt="thabatadornelas" width="350"/>
 </p>
 
