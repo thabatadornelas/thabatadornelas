@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-thabatadornelas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thabatadornelas/)](https://www.linkedin.com/in/thabatadornelas/) [![Gmail Badge](https://img.shields.io/badge/-dornelasthabata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dornelasthabata@gmail.com)](mailto:dornelasthabata@gmail.com)
 
 I'm a Software Developer from Brazil. Currently I'm working at [Qesh Payments](https://app.qesh.ai/)! :computer:
-
 - Learning about technology is one of my true passions (my Youtube History is a big proof of that);
 - Love (love, love, love!) communicating in English;
 - You will probably find me coding somewhere while taking a big sip of coffee! :coffee:
